@@ -1,0 +1,48 @@
+﻿  skyboxshader.cpp
+  spinobjects.cpp
+  camera.cpp
+  config.cpp
+  directionallight.cpp
+  input.cpp
+  object.cpp
+  player.cpp
+C:\Users\danii\Downloads\Project_openGL\Project_openGL-master\player.cpp(74,41): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\danii\Downloads\Project_openGL\Project_openGL-master\player.cpp(76,18): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\danii\Downloads\Project_openGL\Project_openGL-master\player.cpp(102,8): warning C4101: z: неиспользованная локальная переменная
+C:\Users\danii\Downloads\Project_openGL\Project_openGL-master\player.cpp(101,8): warning C4101: y: неиспользованная локальная переменная
+C:\Users\danii\Downloads\Project_openGL\Project_openGL-master\player.cpp(100,8): warning C4101: x: неиспользованная локальная переменная
+  pointlight.cpp
+  render.cpp
+C:\Users\danii\Downloads\Project_openGL\Project_openGL-master\render.cpp(277,24): warning C4018: >: несоответствие типов со знаком и без знака
+  shader.cpp
+  singlemesh.cpp
+  sem.cpp
+  splash.cpp
+C:\Users\danii\Downloads\Project_openGL\Project_openGL-master\splash.cpp(89,44): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+  splashshader.cpp
+  spotlight.cpp
+  boat.cpp
+C:\Users\danii\Downloads\Project_openGL\Project_openGL-master\boat.cpp(267,2): warning C4305: инициализация: усечение из "double" в "const float"
+  water.cpp
+C:\Users\danii\Downloads\Project_openGL\Project_openGL-master\water.cpp(19,29): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\danii\Downloads\Project_openGL\Project_openGL-master\water.cpp(20,29): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\danii\Downloads\Project_openGL\Project_openGL-master\water.cpp(22,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+pgrd.lib(gl_core_4_4.obj) : warning LNK4099: "" PDB не найден с "pgrd.lib(gl_core_4_4.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+pgrd.lib(gldebug.obj) : warning LNK4099: "" PDB не найден с "pgrd.lib(gldebug.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+pgrd.lib(Image.obj) : warning LNK4099: "" PDB не найден с "pgrd.lib(Image.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+pgrd.lib(pgr.obj) : warning LNK4099: "" PDB не найден с "pgrd.lib(pgr.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+pgrd.lib(Shader.obj) : warning LNK4099: "" PDB не найден с "pgrd.lib(Shader.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+  sem.vcxproj -> C:\Users\danii\Downloads\Project_openGL\Project_openGL-master\Debug\sem.exe
